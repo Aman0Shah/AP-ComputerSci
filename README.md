@@ -1,7 +1,6 @@
 ## Welcome to my First Actual Website!
 
-I honestly don't know what to talk about here. I *will* change it more often as I get more exerience in editing the file. :)
-As I work through this exercise, I following a guide by [Mr.Marchant](https://mrmarchant.com/editing-jekyll-theme-css-for-github-pages/). Hopefully, this site turns out to something presentable. I never really thought creating a website from scratch is something for me. I 
+I honestly don't know what to talk about here. I *will* change it more often as I get more exerience in editing the file. :) As I work through this exercise, I followed a guide by [Mr.Marchant](https://mrmarchant.com/editing-jekyll-theme-css-for-github-pages/). Hopefully, this site turns out to something presentable. I never really thought creating a website from scratch was something I could do.   
 
 ### The Start!!!
 
@@ -11,4 +10,4 @@ I just couldn't get the link to a diffrent site work! It was frustrating, seeing
 
 ### Final Thoughts
 
-
+Cool! I mean, I got this to work. I started this build at 7:20 PM on 9/30/20, I finished at 
