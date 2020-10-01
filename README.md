@@ -2,7 +2,7 @@
 
 I honestly don't know what to talk about here. I *will* change it more often as I get more exerience in editing the file. :)
 
-As I work through this exercise, I following a guide by [Mr.Marchant] (https://mrmarchant.com/editing-jekyll-theme-css-for-github-pages/). Hopefully, this site turns out to something presentable. I never really thought creating a website from scratch is something for me. I 
+As I work through this exercise, I following a guide by [Mr.Marchant](https://mrmarchant.com/editing-jekyll-theme-css-for-github-pages/). Hopefully, this site turns out to something presentable. I never really thought creating a website from scratch is something for me. I 
 
 ### The Start!!!
 
