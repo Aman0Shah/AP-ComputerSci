@@ -4,7 +4,7 @@ I honestly don't know what to talk about here. I *will* change it more often as 
 
 ### The Start!!!
 
-Lets see. I first created this site, by creating a [GitHub](https://github.com/) account. Then, I created a new repository; named it "AP-ComputerSci", and added a README file to the new account. After getting this step through, I moved to the settings to change my source to master and choose a theme. These were the easy parts. I read that I would need the README file to actually write on this site. I went to edit the file, but was running into trouble. ![time](.time.png). 
+Lets see. I first created this site, by creating a [GitHub](https://github.com/) account. Then, I created a new repository; named it "AP-ComputerSci", and added a README file to the new account. After getting this step through, I moved to the settings to change my source to master and choose a theme. These were the easy parts. I read that I would need the README file to actually write on this site. I went to edit the file, but was running into trouble. ![time](time.png). 
 
 I just couldn't get the link to a diffrent site work! It was frustrating, seeing Mr.Marchant's code, I was saw my mistake, I beleive I was adding an extra space in between end bracket and starting paranthesis. 
 
