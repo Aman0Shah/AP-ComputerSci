@@ -8,7 +8,7 @@ Lets see. I first created this site, by creating a [GitHub](https://github.com/)
 
 I just couldn't get the link to a diffrent site work! It was frustrating, seeing Mr.Marchant's code, I was saw my mistake, I beleive I was adding an extra space in between end bracket and starting paranthesis. It was a light mistake but once I fixed the spacing issue, and **WOW** it worked! I got on my way adding more information to the website, and it wasn't long until I started facing a new problem. I didn't understand how to insert a picture into my website. ![github](github.png)
 
-I was desperate I asked Mr.Marchant before, I frantically watched a few youtube videos but soon I released that the (srs) is case sensative and must not have any space in its name to work properly. OK! Sure, I guess I am done right? Ya. I beleive so. 
+I was desperate I asked Mr.Marchant before, I frantically watched a few youtube videos but soon I released that the (src) is case sensative and must not have any space in its name to work properly. OK! Sure, I guess I am done right? Ya. I beleive so. 
 
 ## Final Thoughts
 
